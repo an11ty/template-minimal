@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{{ title or metadata.title }}</title>
+</head>
+<body>
+	<header>
+		<a href="{{ '/' | url }}">
+			<span>{{ metadata.title }}</span>
+		</a>
+	</header>
+	<section>
+		<article>
+			{{ content | safe }}
+		</article>
+	</section>
+	<footer>
+		<p>An11ty <strong>Minimalist</strong> Template</p>
+	</footer>
+</body>
+</html>
