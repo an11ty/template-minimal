@@ -1,6 +1,6 @@
 {
   "name": "@an11ty/template-minimist",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "[WIP] Primarily meant for developing an11ty tooling, this is an an11ty template with as few dependencies as possible.",
   "repository": {
     "type": "git",
