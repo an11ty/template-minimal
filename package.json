@@ -1,12 +1,11 @@
 {
-  "name": "@an11ty/template",
-  "version": "0.0.3",
-  "description": "[WIP] Default an11ty site and configuration, with all sorts of goodies.",
+  "name": "@an11ty/template-minimist",
+  "version": "0.0.0",
+  "description": "[WIP] Primarily meant for developing an11ty tooling, this is an an11ty template with as few dependencies as possible.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/an11ty/template.git"
+    "url": "git://github.com/an11ty/template-minimist.git"
   },
-  "main": "index.md",
   "author": {
     "name": "Tobias Davis",
     "email": "tobias@davistobias.com",
@@ -14,9 +13,9 @@
   },
   "license": "VOL",
   "bugs": {
-    "url": "https://github.com/an11ty/template/issues"
+    "url": "https://github.com/an11ty/template-minimist/issues"
   },
-  "homepage": "https://github.com/an11ty/template#readme",
+  "homepage": "https://github.com/an11ty/template-minimist#readme",
   "dependencies": {
     "@11ty/eleventy": "^0.11.0",
     "markdown-it": "^8.4.2"
