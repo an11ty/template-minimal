@@ -1,4 +1,4 @@
 module.exports = {
-	title: 'An11ty Minimist',
+	title: 'An11ty Minimal',
 	url: 'https://example.com/'
 }
