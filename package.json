@@ -1,7 +1,7 @@
 {
   "name": "@an11ty/template-minimal",
   "version": "0.0.2",
-  "description": "Absolutele minimal an11ty template with as few dependencies as possible.",
+  "description": "Absolutely minimal an11ty template with as few dependencies as possible.",
   "keywords": [
     "an11ty",
     "11ty",
@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/an11ty/template-minimal#readme",
   "dependencies": {
-    "@11ty/eleventy": "^0.11.0",
-    "markdown-it": "^11.0.1"
+    "@11ty/eleventy": "^0.11.0"
   }
 }

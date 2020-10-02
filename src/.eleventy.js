@@ -6,7 +6,7 @@ module.exports = config => {
 		'md',
 		markdownIt({
 			html: true,
-			breaks: true,
+			breaks: false,
 			linkify: true,
 			typographer: true
 		})

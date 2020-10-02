@@ -4,12 +4,19 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>{{ title or metadata.title }}</title>
+	<style>
+		html { font-size: 1.5rem; font-family: Consolas, monaco, monospace; }
+		html, body { margin: 0; padding: 0; }
+		header, footer { text-align: center; background-color: #fbe077; }
+		section { max-width: 20rem; margin: 2rem auto 0 auto; }
+		h1, h2, h3, h4, h5, h6 { font-family: Impact, Arial Black, sans serif; }
+	</style>
 </head>
 <body>
 	<header>
-		<a href="{{ '/' | url }}">
-			<span>{{ metadata.title }}</span>
-		</a>
+		<h1>
+			{{ title or metadata.title }}
+		</h1>
 	</header>
 	<section>
 		<article>
@@ -18,9 +25,9 @@
 	</section>
 	<footer>
 		<p>
-			<a href="https://github.com/an11ty/an11ty">An11ty</a>
-			<strong>Minimal</strong>
-			Template
+			<a href="{{ '/' | url }}">
+				{{ metadata.title }}
+			</a>
 		</p>
 	</footer>
 </body>

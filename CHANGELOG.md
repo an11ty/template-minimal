@@ -23,12 +23,21 @@ Change categories are:
 
 ## [Unreleased]
 
+## [0.0.3] - 2020-10-01
+
+### Added
+- A few styles and tweaks so it wouldn't look horrible by default.
+
+### Removed
+- Dropped unnecessary dependency (`markdown-it` is included with `11ty`).
+
 ## [0.0.2] - 2020-10-01
 
 ### Added
 - More documentation, license, etc.
 
 ## [0.0.0] - 2020-09-25
+
 ### Added
 - Initialization with basic structure.
 
