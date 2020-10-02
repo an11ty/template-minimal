@@ -23,6 +23,10 @@ Change categories are:
 
 ## [Unreleased]
 
+## [1.0.0] - 2020-10-01
+
+No longer WIP, this is pretty much what I imagined it to be. 🎉
+
 ## [0.0.3] - 2020-10-01
 
 ### Added
@@ -41,6 +45,7 @@ Change categories are:
 ### Added
 - Initialization with basic structure.
 
-[Unreleased]: https://github.com/an11ty/template-minimal/compare/v0.0.2...HEAD
+[Unreleased]: https://github.com/an11ty/template-minimal/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/an11ty/template-minimal/compare/v0.0.2...v1.0.0
 [0.0.2]: https://github.com/an11ty/template-minimal/compare/v0.0.0...v0.0.2
 [0.0.0]: https://github.com/an11ty/template-minimal/tree/v0.0.0
