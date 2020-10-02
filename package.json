@@ -1,7 +1,13 @@
 {
   "name": "@an11ty/template-minimal",
   "version": "0.0.1",
-  "description": "[WIP] Primarily meant for developing an11ty tooling, this is an an11ty template with as few dependencies as possible.",
+  "description": "Absolutele minimal an11ty template with as few dependencies as possible.",
+  "keywords": [
+    "an11ty",
+    "11ty",
+    "eleventy",
+    "static-site-generator"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/an11ty/template-minimal.git"
