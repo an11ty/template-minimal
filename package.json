@@ -1,6 +1,6 @@
 {
   "name": "@an11ty/template-minimal",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Absolutely minimal an11ty template with as few dependencies as possible.",
   "keywords": [
     "an11ty",
