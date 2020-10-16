@@ -2,6 +2,9 @@
   "name": "@an11ty/template-minimal",
   "version": "1.0.0",
   "description": "Absolutely minimal an11ty template with as few dependencies as possible.",
+  "scripts": {
+    "dev": "cd src && eleventy --serve --watch"
+  },
   "keywords": [
     "an11ty",
     "11ty",
